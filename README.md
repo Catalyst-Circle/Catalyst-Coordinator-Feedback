@@ -17,11 +17,17 @@ The intent of this repository is to facilitate the communication of issues, conc
 Catalyst Circle v2 results 🎉
 
 👉 Allison Fromm - General ADA Holders
+
 👉 Tevo Saks - Toolmakers & Maintainers
+
 👉 Stephen Whitenstall - Funded Proposers
+
 👉 Raymond Mata - Stake Pool Operators
+
 👉 Kenric Nelson - Community Advisors
+
 👉 Matthias Sieber - Cardano Foundation
+
 👉 Harris Warren - IOHK
 
 
